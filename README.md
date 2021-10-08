@@ -66,7 +66,7 @@
 
 - 변경한 사항들이 적용된 모습
 
-## 4. 사용자 시나리오 및 merge
+## 4. 사용자 간 conflict 시나리오 및 merge
 
 <img src="./img/img15.png" width="500px">
 
@@ -94,7 +94,7 @@
 
 <img src="./img/img21.png" width="500px">
 
-- merge tool 실행, 자신의 코드 선택
+- merge tool 실행, 자신의 코드와 pull이 되어 있던 코드 중에 선택
 
 <img src="./img/img23.png" width="500px">
 
