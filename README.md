@@ -66,5 +66,43 @@
 
 - 변경한 사항들이 적용된 모습
 
+## 4. 사용자 시나리오 및 merge
 
-    
+<img src="./img/img15.png" width="500px">
+
+- 유저1이 코드를 추가 후 push
+
+<img src="./img/img16.png" width="500px">
+
+- 유저1이 추가한 코드 확인
+
+<img src="./img/img17.png" width="500px">
+
+- 유저2가 유저1이 push한 것을 pull
+
+<img src="./img/img18.png" width="500px">
+
+- 유저2가 코드를 추가하여 push
+
+<img src="./img/img19.png" width="500px">
+
+- 유저1이 유저2가 push한 것을 pull하지 않고 코드 작성 후 push 시도
+
+<img src="./img/img20.png" width="500px">
+
+- pull을 하자 conflict 발생
+
+<img src="./img/img21.png" width="500px">
+
+- merge tool 실행, 자신의 코드 선택
+
+<img src="./img/img23.png" width="500px">
+
+- 자신의 코드가 선택된 걸 볼 수 있다, push 진행
+
+<img src="./img/img24.png" width="500px">
+
+- push된 것을 확인
+
+<img src="./img/img25.png" width="500px">
+
